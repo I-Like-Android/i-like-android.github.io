@@ -21,6 +21,7 @@ export default defineConfig({
         items: [
           { text: '🚫 Adblocking', link: '/adblocking' },
           { text: '🔐 Security', link: '/security' },
+          { text: '🌐 Apps / APKs', link: '/apps-apks'},
         ]
       },
       {
