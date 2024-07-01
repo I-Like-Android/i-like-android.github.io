@@ -1,6 +1,6 @@
-# Apps / APKs
+# Downloading
 
-APKs, Apps, etc...
+APKs, Files, Apps, etc...
 
 ## App Stores
 
@@ -29,8 +29,18 @@ Always remember to scan anything you download from one of these sites with one o
 * ⭐ [**APKMirror**](https://www.apkmirror.com/)
 * [**APKCombo**](https://apkcombo.com/)
 
-## Tools
+## APK Tools
 
 * ⭐ [**Lucky Patcher**](https://www.luckypatchers.com/download/) - App Patching  / [Guide](https://flixbox.github.io/lp-compat/docs/lp-info)
 * ⭐ [**Obtanium**](https://github.com/ImranR98/Obtainium) - App Updater from Source.
 * [**APKTool**](https://apktool.org/) - APK Modification/Reverse Engineering Tool
+
+## Torrenting
+
+::: warning WARNING
+Torrenting itself can be legal, but **piracy** is not. I do not encourage piracy; you are accountable for your own actions. If you engage in piracy, be sure to use a VPN.
+:::
+
+* ⭐ [**Flud**](https://play.google.com/store/apps/details?id=com.delphicoder.flud)
+* ⭐ [**LibreTorrent**](https://gitlab.com/proninyaroslav/libretorrent)
+* ⭐ [**nzb360**](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360)

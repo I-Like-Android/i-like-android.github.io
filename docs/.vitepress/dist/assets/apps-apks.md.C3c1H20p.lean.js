@@ -1,1 +1,0 @@
-import{_ as r,c as e,o as t,a1 as a}from"./chunks/framework.C46D9NsM.js";const k=JSON.parse('{"title":"Apps / APKs","description":"","frontmatter":{},"headers":[],"relativePath":"apps-apks.md","filePath":"apps-apks.md"}'),o={name:"apps-apks.md"},s=a("",11),l=[s];function n(i,p,h,d,c,f){return t(),e("div",null,l)}const m=r(o,[["render",n]]);export{k as __pageData,m as default};
