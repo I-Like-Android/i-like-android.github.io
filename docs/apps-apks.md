@@ -10,6 +10,10 @@ APKs, Apps, etc...
 
 ## Modded APKs
 
+::: tip SCAN YOUR DOWNLOADS!
+Always remember to scan anything you download from one of these sites with one of the tools you can find [here](https://i-like-android.github.io/security.html#online-analysis-tools) and you use an adblocker, you can find them [here](https://i-like-android.github.io/adblocking.html#adblockers).
+:::
+
 * ⭐ [**Modyolo**](https://modyolo.com/)
 * ⭐ [**LiteAPKs**](https://liteapks.com/)
 * ⭐ [**Mobilism**](https://forum.mobilism.org/viewforum.php?f=398)
