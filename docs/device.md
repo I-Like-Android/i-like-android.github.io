@@ -1,6 +1,6 @@
 # Device
 
-Utilites/Misc things related to your android device (Customization, optimization, etc.)
+Utilites/Misc things related to your android device (customization, optimization, etc.)
 
 ## Customization
 * [**Articons**](https://f-droid.org/packages/com.donnnno.arcticons) - Icons
