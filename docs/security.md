@@ -24,3 +24,14 @@ You should always scan files (like APKs) that you download with one or more of t
 * [**Exodus**](https://reports.exodus-privacy.eu.org/en/)
 * [**HideDroid**](https://reports.exodus-privacy.eu.org/en/)
 * [**Permission Pilot**](https://github.com/d4rken-org/permission-pilot)
+
+## Browsers
+::: tip ???
+This is different to the Adblocking browsers you can find [here](https://i-like-android.github.io/adblocking.html#adblocking-browsers).
+:::
+* ⭐ [**Mull**](http://gitlab.com/divested-mobile/mull-fenix)
+* ⭐ [**Tor Browser**](https://tb-manual.torproject.org/mobile-tor/) - Onion Browser
+* [**Ceno Browser**](https://censorship.no/en/index.html) - Proxy Browser
+
+## Network
+* [**PCAPdroid**](https://f-droid.org/packages/com.emanuelef.remote_capture), [**Keep It Up**](https://github.com/ibbaa/keepitup/) - Network Monitoring

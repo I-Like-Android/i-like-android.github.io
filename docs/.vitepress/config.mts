@@ -22,6 +22,7 @@ export default defineConfig({
           { text: '🚫 Adblocking', link: '/adblocking' },
           { text: '🔐 Security', link: '/security' },
           { text: '🌐 Downloading', link: '/downloading'},
+          { text: '🤳 Device', link: '/device'},
         ]
       },
       {
