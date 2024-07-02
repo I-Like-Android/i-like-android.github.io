@@ -30,7 +30,7 @@ export default defineConfig({
         items: [
           { text: '🔒 I Like Android Privacy', link: '/archive-collection'},
         ]
-      }
+      },
     ],
 
     socialLinks: [
