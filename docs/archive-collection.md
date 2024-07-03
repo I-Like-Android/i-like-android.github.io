@@ -1,6 +1,6 @@
 # 🔒 I Like Android Privacy
 
-::: warning READ THIS!
+::: warning READ ME!!!
 
 * This page is simply everything listed on the old verison of the site ported over to this.
 * This page will not be updated with new links or new things added.
