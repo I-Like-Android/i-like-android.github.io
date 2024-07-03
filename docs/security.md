@@ -35,3 +35,4 @@ This is different to the Adblocking browsers you can find [here](https://i-like-
 
 ## Network
 * [**PCAPdroid**](https://f-droid.org/packages/com.emanuelef.remote_capture), [**Keep It Up**](https://github.com/ibbaa/keepitup/) - Network Monitoring
+* [**DPITunnel**](https://github.com/nomoresat/DPITunnel-android), [**Intra**](https://getintra.org/) - Proxies

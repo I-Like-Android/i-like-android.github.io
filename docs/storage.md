@@ -9,5 +9,3 @@ Welcome to the page you ain't supposed to be at lmao
 * [**DroidFS**](https://f-droid.org/packages/sushi.hardcore.droidfs) - encryption
 * [**Material Files**](https://f-droid.org/packages/me.zhanghai.android.files) - files
 * [**Shelter**](https://f-droid.org/packages/net.typeblog.shelter) - app isolation
-* [**DPITunnel**](https://github.com/nomoresat/DPITunnel-android) - proxy
-* [**Intra**](https://getintra.org/) - proxy
