@@ -22,7 +22,7 @@ You should always scan files (like APKs) that you download with one or more of t
 ## Permission Managers
 * [**TrackerControl**](https://trackercontrol.org/)
 * [**Exodus**](https://reports.exodus-privacy.eu.org/en/)
-* [**HideDroid**](https://reports.exodus-privacy.eu.org/en/)
+* [**HideDroid**](https://github.com/Mobile-IoT-Security-Lab/HideDroid)
 * [**Permission Pilot**](https://github.com/d4rken-org/permission-pilot)
 
 ## Browsers
