@@ -35,7 +35,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/MoistCatawumpus' },
+      { icon: 'github', link: 'https://github.com/i-like-android' },
     ]
   }
 })
