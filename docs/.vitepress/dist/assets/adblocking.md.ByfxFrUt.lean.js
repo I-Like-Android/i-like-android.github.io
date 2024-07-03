@@ -1,1 +1,0 @@
-import{_ as e,c as a,o,a1 as r}from"./chunks/framework.C46D9NsM.js";const k=JSON.parse('{"title":"Adblocking","description":"","frontmatter":{},"headers":[],"relativePath":"adblocking.md","filePath":"adblocking.md"}'),t={name:"adblocking.md"},l=r("",8),d=[l];function n(i,s,c,g,u,h){return o(),a("div",null,d)}const f=e(t,[["render",n]]);export{k as __pageData,f as default};
