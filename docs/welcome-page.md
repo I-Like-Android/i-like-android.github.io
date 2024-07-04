@@ -4,7 +4,7 @@ Welcome to my new project, inspired by `🔒 I Like Android Privacy`, this will 
 
 ::: tip MESSAGE FROM DEVELOPER
 
-This is still a learning process for me, this will not be perfect, please allow me some time to get used to this new.. style of website.
+This is still a learning process for me, this will not be perfect, please allow me some time to get used to this new.. style.
 
 :::
 
