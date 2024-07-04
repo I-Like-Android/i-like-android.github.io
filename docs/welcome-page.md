@@ -1,6 +1,6 @@
 # Welcome to **📱 I Like Android**
 
-Welcome to my new website, inspired by `🔒 I Like Android Privacy`, this will be a wiki of sorts for all things related to Android! Guides, resources, and apps/tools to enhance your android experience!
+Welcome to my new project, inspired by `🔒 I Like Android Privacy`, this will be a wiki of sorts for all things related to Android! Guides, resources, and apps/tools to enhance your android experience!
 
 ::: tip MESSAGE FROM DEVELOPER
 
