@@ -7,6 +7,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: '🔒 I Like Android Privacy', link: 'https://moistcatawumpus.github.io/i-like-android-privacy/' },
+      { text: 'Backups', items: [{ text:'Rentry', link: 'https://rentry.co/I-Like-Android'}]}
     ],
 
     sidebar: [
