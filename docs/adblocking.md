@@ -4,7 +4,7 @@ This page features adblockers for your android and a guide on adblocking with `A
 
 ## Adblockers
 
-* ⭐ [**AdGuard Premium**](https://modyolo.com/download/adguard-28793/4)
+* ⭐ [**AdGuard Premium**](https://rentry.co/hmfog7v7)
 * ⭐ [**AdAway**](https://adaway.org/)
 * [**personalDNSfilter**](https://www.zenz-solutions.de/personaldnsfilter-wp/)
 * [**Blokada**](https://blokada.org/)
