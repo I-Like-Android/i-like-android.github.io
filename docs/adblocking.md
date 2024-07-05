@@ -8,6 +8,7 @@ This page features adblockers for your android and a guide on adblocking with `A
 * ⭐ [**AdAway**](https://adaway.org/)
 * [**personalDNSfilter**](https://www.zenz-solutions.de/personaldnsfilter-wp/)
 * [**Blokada**](https://blokada.org/)
+* [**Energized Protection**](https://xdaforums.com/t/module-energized-9889-protection-eacute-clairs-magisk.3806865/) (Magisk Module)
 
 ## Adblocking Browsers
 

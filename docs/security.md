@@ -16,8 +16,13 @@ You should always scan files (like APKs) that you download with one or more of t
 * [**Bitdefender**](https://www.bitdefender.com.au/solutions/antivirus-free-for-android)
 * [**Hypatia**](https://gitlab.com/divested-mobile/hypatia)
 
+## App Isolation
+* ⭐ [**Shelter**](https://f-droid.org/packages/net.typeblog.shelter)
+* [**Island**](https://play.google.com/store/apps/details?id=com.oasisfeng.island)
+
 ## Firewalls
 * ⭐ [**NetGuard**](https://github.com/M66B/NetGuard)
+* [**Rethink**](https://f-droid.org/packages/com.celzero.bravedns/) - DNS / Firewall / VPN
 
 ## Permission Managers
 * [**TrackerControl**](https://trackercontrol.org/)
@@ -34,5 +39,8 @@ This is different to the Adblocking browsers you can find [here](https://i-like-
 * [**Ceno Browser**](https://censorship.no/en/index.html) - Proxy Browser
 
 ## Network
+* [**AndroidNetworkTools**](https://github.com/stealthcopter/AndroidNetworkTools) - Network Tools
 * [**PCAPdroid**](https://f-droid.org/packages/com.emanuelef.remote_capture), [**Keep It Up**](https://github.com/ibbaa/keepitup/) - Network Monitoring
 * [**DPITunnel**](https://github.com/nomoresat/DPITunnel-android), [**Intra**](https://getintra.org/) - Proxies
+* [**Ning**](https://github.com/csicar/Ning) - Network Scanner
+* [**cidrcalculator**](https://github.com/rmceoin/cidrcalculator) - Subnet Calculator
