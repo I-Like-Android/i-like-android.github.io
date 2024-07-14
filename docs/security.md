@@ -24,6 +24,11 @@ You should always scan files (like APKs) that you download with one or more of t
 * ⭐ [**NetGuard**](https://github.com/M66B/NetGuard)
 * [**Rethink**](https://f-droid.org/packages/com.celzero.bravedns/) - DNS / Firewall / VPN
 
+## Temporary Emails
+* ⭐ [**addy.io**](https://gitlab.com/Stjin/anonaddy-android)
+* ⭐ [**Guerrilla Mail**](https://gitlab.com/TheOneWithTheBraid/guerrilla_mail)
+* [**Temp Mail**](https://play.google.com/store/apps/details?id=com.tempmail)
+
 ## Permission Managers
 * [**TrackerControl**](https://trackercontrol.org/)
 * [**Exodus**](https://reports.exodus-privacy.eu.org/en/)
