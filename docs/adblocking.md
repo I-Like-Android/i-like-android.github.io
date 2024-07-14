@@ -15,6 +15,13 @@ This page features adblockers for your android and a guide on adblocking with `A
 * ⭐ [**Cromite**](https://github.com/uazo/cromite)
 * ⭐ [**jQuarks**](https://f-droid.org/packages/com.oF2pks.jquarks/)
 
+## Spotify Ad Muting
+::: warning NOTE
+These just mute the ads, not block them.
+:::
+* [**SpotIt**](https://f-droid.org/packages/com.rohit2810.spotit/)
+* [**Ad-silence**](https://github.com/aghontpi/ad-silence)
+* [**SpotMute**](https://github.com/samu-developments/SpotMute)
 
 ## Guide for AdGuard
 
