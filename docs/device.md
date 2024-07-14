@@ -10,7 +10,10 @@ Utilites/Misc things related to your android device (customization, optimization
 
 
 ## Launchers
+* ⭐ [**Lawnchair**](https://lawnchair.app/)
+* ⭐ [**SmartLauncher**](https://www.smartlauncher.net/)
 * [**KISS**](https://f-droid.org/packages/fr.neamar.kiss)
+* [**Niagara Launcher**](https://niagaralauncher.app/)
 
 ## Debloating
 ::: tip GUIDE
