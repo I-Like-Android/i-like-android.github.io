@@ -6,8 +6,13 @@
 * This page will not be updated with new links or new things added.
 
 **This is an archive.**
-
 :::
+
+::: tip Privacy Emojis have now been added to this archive.
+This message will disappear soon.
+:::
+
+
 
 ::: details **Privacy Emojis**
 **🟢 Good:** Excellent privacy protection, minimal data collection, and strong security measures.
