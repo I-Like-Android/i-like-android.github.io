@@ -110,7 +110,6 @@ This message will disappear soon.
 ## Android Anti-Malware Apps
 
 * ⭐🟢 [**Malwarebytes Security**](https://www.malwarebytes.com/mobile/) - Malware scanner and removal tool.
-* 🟠 [**Avast Antivirus**](https://www.avast.com/) - Antivirus and security tool.
 * 🟡 [**Bitdefender Antivirus**](https://www.bitdefender.com/) - Antivirus and malware removal app.
 
 ## Android Privacy-focused Keyboards
