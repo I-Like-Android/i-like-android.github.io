@@ -5,7 +5,7 @@ Utilites/Misc things related to your android device (customization, optimization
 ## Customization
 * [**Articons**](https://f-droid.org/packages/com.donnnno.arcticons) - Icons
 * [**Iconify**](https://github.com/Mahmud0808/Iconify) (Requires ROOT) - Icons
-* [**AnySoftKeyboard**](https://f-droid.org/packages/com.menny.android.anysoftkeyboard), [**FlorisBoard**](https://f-droid.org/packages/dev.patrickgold.florisboard) - Keyboards
+* [**AnySoftKeyboard**](https://f-droid.org/packages/com.menny.android.anysoftkeyboard), [**FlorisBoard**](https://f-droid.org/packages/dev.patrickgold.florisboard), [**FUTO Keyboard**](https://keyboard.futo.org/) - Keyboards
 * [**Koncius**](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - Video -> Wallpaper
 
 
