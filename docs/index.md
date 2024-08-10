@@ -14,11 +14,14 @@ hero:
       link: /archive-collection
 
 features:
-  - title: 🆕 New & Improved!
+  - icon: 🆕
+    title: New & Improved!
     details: Based on what I did with 🔒 I Like Android Privacy, but with more goodies and new design!
-  - title: ✅ Safe & Reliable!
+  - icon: ✅
+    title: Safe & Reliable!
     details: Everything here is gathered from safe & reliable sources!
-  - title: 🔒 Archived the old one!
+  - icon: 🔒
+    title: Archived the old one!
     details: You can find everything from 🔒 I Like Android Privacy on here too!
 ---
 
